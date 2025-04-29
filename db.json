@@ -1,0 +1,13 @@
+{
+    "blogs": [
+        {"id": 1, "title": "blog Title1", "description": "blog description 1", "isFav": false, "imageUrl": ""},
+        {"id": 3, "title": "blog Title1", "description": "blog description 1", "isFav": false, "imageUrl": ""},
+        {"id": 4, "title": "blog Title1", "description": "blog description 1", "isFav": false, "imageUrl": ""},
+        {"id": 5, "title": "blog Title1", "description": "blog description 1", "isFav": false, "imageUrl": ""},
+        {"id": 6, "title": "blog Title1", "description": "blog description 1", "isFav": false, "imageUrl": ""},
+        {"id": 7, "title": "blog Title1", "description": "blog description 1", "isFav": false, "imageUrl": ""},
+        {"id": 8, "title": "blog Title1", "description": "blog description 1", "isFav": false, "imageUrl": ""},
+        {"id": 9, "title": "blog Title1", "description": "blog description 1", "isFav": false, "imageUrl": ""},
+        {"id": 2, "title": "blog Title2", "description": "blog description 2", "isFav": false, "imageUrl": ""}
+    ]
+}
